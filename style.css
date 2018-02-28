@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.color1 h3 {
+    font-family: 28px Helvetica Neue, fantasy, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: gold;
+  
+}
+.color1 {
+    margin-top: 150px;
+   
+}
+ .color11 h5 {
+    font-family: 28px MyriadProSemi, Monaco, fantasy;
+    font-style: normal;
+    font-weight: 700;
+    color: midnightblue;
+  
+}
+.color2 h3 {
+    font-family: 32px Helvetica Neue, fantasy, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: chartreuse;
+  
+}
+
+ .color21 h4 {
+    font-family: 30px MyriadProSemi, Monaco, fantasy;
+    font-style: normal;
+    font-weight: 700;
+    color: hotpink;
+  
+}
+.color2 {
+    margin-top: 250px;
+}
+
+.color3 h3 {
+    font-family: 28px Helvetica Neue, fantasy, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: gold;
+  
+}
+
+ .color31 h5 {
+    font-family: 28px MyriadProSemi, Monaco, fantasy;
+    font-style: normal;
+    font-weight: 500;
+    color: deepskyblue;
+  
+}
+.color3 {
+
+     margin-left: 480px;
+     
+}
+.color31 {
+    margin-left: 500px;
+}
+.color5 h3 {
+    font-family: 26px Helvetica Neue, fantasy, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: red;
+  
+}
+
+ .color51 h5 {
+   
+    font-family: 26px MyriadProSemi, Monaco, fantasy;
+    font-style: normal;
+    font-weight: 500;
+    color: deepskyblue;
+  
+}
+
+.color5 h3 {
+     margin-left: 450px;
+     
+}
+
+.color51 {
+    margin-left: 450px;
+   
+}
+.color6 h3, h5 {
+    color: crimson;
+}
+
+.main, .slider {
+  float: left;
+  margin-top: 60px;
+}
+
+    
+.main  {
+    width: 90%;
+    height: 620px;
+    float: left;
+   }
+
+.nav-wrapper p {
+    font: 26px Verdana, bold sans-serif;
+}
+
+.container1{
+   float: left;
+   margin-top: 20px;
+   margin-left: 20px;
+   text-align: center;
+
+}
+   
+.container2 {
+    float: left;
+    text-align: center;
+
+    padding: 15px;
+
+    margin-left: 290px;
+
+ 
+}
+.icon1, .icon2, .icon3{ 
+   float: left;
+   text-align: center;
+    padding-right: 5px;
+}
+    .icons {
+        margin-left: 280px;
+    }
+     
