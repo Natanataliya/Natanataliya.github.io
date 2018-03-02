@@ -35,6 +35,18 @@
     background-size: 100%;
     margin-right: 0;
    }
+   .article {
+    padding: 20px;
+   }
+  
+   .navig2 {
+    margin-left: 230px; 
+   }
+
+  .navig3 {
+    margin-left: 230px;
+  }
+
 .text1 h2, h3 {
    text-align: center;
    font: 36px Verdana, Arial, Helvatica, sans-serif;
