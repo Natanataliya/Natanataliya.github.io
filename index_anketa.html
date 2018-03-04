@@ -315,14 +315,17 @@
         <div class="container2">
         <a><img src="images/mzs.png" alt=" "></a>
         </div>
-        <div class="icon1"><a><img src="images/fb.svg"></a></div>
-        <div class="icon2"><a><img src="images/inst.svg"></a></div>
+       <div class="icons">
+       <div class="icon2"><a><img src="images/inst.svg"></a></div>
         <div class="icon3"><a><img src="images/youtube.svg"></a></div>
-          </div> 
+        <div class="icon1"><a href="https://www.facebook.com/groups/232417150631260/">
+        <img src="images/fb.svg"></a></div>
+        </div>
+        </div>
             
      <script src="jquery-3.2.1.min.js"></script>
 	    <script type="text/javascript">
-$(document).ready(function(){
+$(document).ready(function() {
     $("#form").submit(function(event) { //устанавливаем событие отправки для формы с id=form
             var event = event|| window.event;
         event.preventDefault();
@@ -335,14 +338,13 @@ $(document).ready(function(){
              console.log(data);
                    //код в этом блоке выполняется при успешной отправке сообщения
                    alert("Ваше сообщение отправлено!");
-	    }
-            
-       });
+                 }
+            });
            
    });
    
 });
-
+ 
     
    
 </script>
