@@ -35,7 +35,7 @@
     background-size: 100%;
     margin-right: 0;
    }
-   .article {
+   .article  {
     padding: 20px;
    }
   
@@ -67,11 +67,11 @@
     margin-top: 100px;
 }
 h5{ 
-   font: 20px Verdana, Arial, Helvatica, sans-serif;
+   font: 18px Verdana, Arial, Helvatica, sans-serif;
    color: #1a2853;   
 }
 h6 {
-   font: 18px Verdana, Arial, Helvatica, sans-serif;
+   font: 16px Verdana, Arial, Helvatica, sans-serif;
    color: #1a2853;  
 }
 .address h5, h6 {
@@ -79,7 +79,7 @@ h6 {
 }
 .address p {
     font: 16px Verdana, Arial, Helvatica, sans-serif;
-    line-height: 2.5;
+    line-height: 2;
     color: brown;  
 }
 
@@ -87,16 +87,11 @@ h6 {
     float: left;
 }
 
-/*
-.button {
-   width: 150px;
-   height: 40px;
-   background: coral;
-   border-radius: 10px;
-   border: 5px solid coral;
+.doc1 {
+  text-align: center;
+  padding: 20px;
 
 }
-*/
 .footer {
     width: 100%;
     height: auto;
