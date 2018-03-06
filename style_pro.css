@@ -16,7 +16,7 @@
      float: left; 
        
 }
-    .navigation li a {
+   .navigation li a {
     color: white;
     font-family: Verdana, Arial, Helvatica, sans-serif; 
     font-size: 14px;
@@ -35,40 +35,7 @@
     margin-right: 0;
     float: left;
    }
-
-/*
-h5 {
-    margin-top: 50px;
-    margin-bottom: 30px;
-    text-align: center;
-    font-family: Verdana, Arial, Helvatica, sans-serif;
-    font-size: 28px;
-    color: #1a2853;  
-}
-
-.text1 h2, h3 {
-   text-align: center;
-   font: 36px Verdana, Arial, Helvatica, sans-serif;
-   color: #1a2853; 
- 
-}
-.text1 {
-    
-    margin-top: 50px;
    
-}
-.text2 {
-    margin-top: 50px;
-   
-} 
-
-
-h6 {
-   font: 28px Verdana, Arial, Helvatica, sans-serif;
-   color: #1a2853;  
-}
-*/
-
 .footer {
     width: 100%;
     height: auto;
@@ -78,24 +45,25 @@ h6 {
 }
 .container1{
    float: left;
+   padding: 10px;
+
 }
    
 .container2 {
     float: left;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 270px;
+ 
 }
-.icon1{ 
-    float: left;
+.icon1, .icon2, .icon3{ 
+    float: right;
+    margin-top: 50px;
+    padding: 5px; 
 }
-.icon2 { 
-float: left;
-}
-.icon3 {
-    float: left;
-}
+
 .article {
     margin-left: 350px;
     margin-right: 350px;
 }
-
-
 
